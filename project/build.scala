@@ -84,8 +84,8 @@ object build extends Build {
           </license>
         </licenses>
         <scm>
-          <url>http://github.com/etorreborre/eff-scalaz</url>
-          <connection>scm:http:http://etorreborre@github.com/etorreborre/eff-scalaz.git</connection>
+          <url>http://github.com/atnos-org/eff-scalaz</url>
+          <connection>scm:git:git@github.com:atnos-org/eff-scalaz.git</connection>
         </scm>
         <developers>
           <developer>
